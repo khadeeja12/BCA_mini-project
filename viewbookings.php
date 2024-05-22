@@ -4,7 +4,7 @@ include 'connection.php';
 
 <html>
 <CENTER>
-<h1 style="color:white;">BOOKING  DETAILS</h1>
+<h1 style="color:white;">BOOKING DETAILS</h1>
 </CENTER>
 <head>
 	<title>BOOKING DETAILS</title>
